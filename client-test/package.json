@@ -1,0 +1,19 @@
+{
+  "name": "client-test",
+  "version": "0.0.1",
+  "description": "Testing loading data from client side js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dMacGit/Small-NodeJS-Projects.git"
+  },
+  "author": "dMacGit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dMacGit/Small-NodeJS-Projects/issues"
+  },
+  "homepage": "https://github.com/dMacGit/Small-NodeJS-Projects#readme"
+}
