@@ -1,0 +1,6 @@
+<script src="ejs.min.js"></script>
+<ul>
+    <% data.forEach(function(person){ %>
+        <li><%= person.name %> is <%= person.age %> old!</li>
+    <% }); %> 
+</ul>
